@@ -1,9 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
-
-
-
     <application
-        android:label="install_apk_example"
+        android:label="apk_sideload_example"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

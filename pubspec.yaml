@@ -1,7 +1,7 @@
 name: apk_sideload
-description: A Flutter plugin to install APK files on Android.
+description: A Flutter plugin to install APK files on Android, with FileProvider support and permission flow.
 version: 0.0.1
-homepage: https://github.com/Ifoegbu1/install_apk
+homepage: https://github.com/Ifoegbu1/apk_sideload
 repository: https://github.com/Ifoegbu1/apk_sideload
 issue_tracker: https://github.com/Ifoegbu1/apk_sideload/issues
 
